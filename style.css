@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(fonts/Font\ Awesome/FontAwesome.otf);
+}
+@font-face {
+    font-family: 'fontawesome-webfont';
+    src: url(fonts/Font\ Awesome/fontawesome-webfont.ttf);
+}
+@font-face {
+    font-family: 'opensans-regular-webfont';
+    src: url(fonts/OpenSans/opensans-regular-webfont.ttf);
+}
+.justify-content-center{
+    display: flex;
+    justify-content: flex-end !important;   
+}
+.fuente { 
+    font-family:'opensans-regular-webfont';
+}
+
+.img {
+    background-image: url("images/fondo-bienvenido-grande.jpg");
+    background-size: auto;
+    height: 20px;
+}
